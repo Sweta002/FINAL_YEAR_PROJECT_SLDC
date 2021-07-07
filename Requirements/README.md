@@ -21,8 +21,11 @@ FEATURES:
 ---------
 
 The features of the project include:
+
 Isolation of the faulty part from the healthy systems
+
 Restructuring of the distribution network
+
 Optimal sizing and positioning of DG for power restoration.
 
 
@@ -65,6 +68,7 @@ WHERE:
 In the power distribution network.
 
 HIGH LEVEL REQUIREMENTS:
+-------------------------
 
 | ID    | DESCRIPTION          | STATUS     |
 | ------| ---------------------|------------|
@@ -73,6 +77,8 @@ HIGH LEVEL REQUIREMENTS:
 
 
 LOW LEVEL REQUIREMENTS:
+-------------------------
+
 
 | ID   | DESCRIPTION               | H_ID | STATUS       | 
 |------| --------------------------|------|--------------|
