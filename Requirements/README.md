@@ -33,7 +33,7 @@ Optimal sizing and positioning of DG for power restoration.
 ## DEFINING THE SYSTEM APPROACH:
 
 
-![Test Image 1]
+![Test Image 1](https://github.com/Sweta002/FINAL_YEAR_PROJECT_SLDC/blob/main/Requirements/SDLC.png)
 
 
 
