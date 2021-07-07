@@ -40,7 +40,7 @@ Optimal sizing and positioning of DG for power restoration.
 ## SWOT ANALYSIS:
 
 
-
+![Test Image 2](https://github.com/Sweta002/FINAL_YEAR_PROJECT_SLDC/blob/main/Requirements/WhatsApp%20Image%202021-06-03%20at%2015.21.45(1).jpeg)
 
 
 ## 4Ws and 1Hs:
