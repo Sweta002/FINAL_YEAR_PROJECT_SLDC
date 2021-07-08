@@ -4,7 +4,7 @@
 
 ## HIGH LEVEL BEHAVIOURAL DIAGRAM:
 
-![Test Image 1](3DTest.png)
+![Test Image 1](https://github.com/Sweta002/FINAL_YEAR_PROJECT_SLDC/blob/main/Architecture/HIGH%20LEVEL%20FINAL.png)
 
 ## LOW LEVEL BEHAVIOURAL DIAGRAM:
 
