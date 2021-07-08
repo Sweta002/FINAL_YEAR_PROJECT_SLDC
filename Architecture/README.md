@@ -21,5 +21,5 @@
 
 ## LOW LEVEL STRUCTURAL DIAGRAM :
 
-![Test Image 3](https://github.com/Sweta002/FINAL_YEAR_PROJECT_SLDC/blob/main/Architecture/Copy of STRUCTURELOW.png)
+![Test Image 3](https://github.com/Sweta002/FINAL_YEAR_PROJECT_SLDC/blob/main/Architecture/Copy%20of%20STRUCTURELOW.png)
 
