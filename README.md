@@ -1,8 +1,12 @@
 ## POWER RESTORATION IN DISTRIBUTION NETWORK AFTER A NATURAL CALAMITY:
 
 The problem is to restore the power distribution after quick isolation of the faulty part from the healthy system and restoration of power by positioning of the DG in the appropriate place based on algorithms deciding the probable positioning place based on the vulnerability index or probability of failure after the fault has occurred.
+
+
 The problem encountered in grid resiliency can be divided into two parts:
+
 Isolation of the faulty part from the healthy systems
+
 Optimal sizing and positioning of DG
 
 ## FOLDER STRUCTURE:
